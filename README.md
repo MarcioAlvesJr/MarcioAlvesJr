@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Márcio 👋
 
-<!--
-**MarcioAlvior/MarcioAlvior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I've been learning and improving as a developer. 
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="N3evin | Porfolio" width="22px"  src="https://simpleicons.org/icons/netlify.svg" />][website]
+[<img align="left" alt="N3evin | LinkedIn" width="22px"  src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+### 📕 Latest Portfolio Post
+
+<!-- BLOG-POST-LIST:START -->
+- [Amiibo finder](https://github.com/MarcioAlvior/AmiiboApi)
+- [Oceancio's Store](https://github.com/MarcioAlvior/E-commerce)
+- [Márcio's Portifolio](https://github.com/MarcioAlvior/portifolio)
+- [Rock, paper, scissors](https://github.com/MarcioAlvior/-RockPaperScissors)
+<!-- BLOG-POST-LIST:END -->
+
+
+---
+
+
+[website]: https://marcioalvior.com/
+[linkedin]: https://www.linkedin.com/in/marcioadrianoalvesjunior/
