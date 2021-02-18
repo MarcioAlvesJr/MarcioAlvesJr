@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Amiibo Finder](https://github.com/MarcioAlvior/AmiiboApi)
 - [Oceancio's Store](https://github.com/MarcioAlvior/E-commerce)
-- [Márcio's Portifolio](https://github.com/MarcioAlvior/portifolio)
+- [Márcio's Portfolio](https://github.com/MarcioAlvior/portifolio)
 - [Rock, paper, scissors](https://github.com/MarcioAlvior/-RockPaperScissors)
 <!-- BLOG-POST-LIST:END -->
 
