@@ -1,26 +1,16 @@
 ### Hi there, I'm Márcio 👋
 
-- 🌱 I've been learning and improving as a developer. 
+- 🌱 I've been learning and improving as a developer.
 
-### Connect with me:
+### Most Recent Portifolio Projects ✨
+- [Fullstack App - MERN - The Goal Helper](https://github.com/MarcioAlvior/MarcioAlvior/blob/main/Projects/TheGoalHelper/TheGoalHelper.md)
 
-[<img align="left" alt="N3evin | Porfolio" width="22px"  src="https://simpleicons.org/icons/netlify.svg" />][website]
-[<img align="left" alt="N3evin | LinkedIn" width="22px"  src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="N3evin | LinkedIn" width="22px"  src="https://simpleicons.org/icons/gmail.svg" />][email]
+### Older Vanilla Js Portfolio Projects
 
-<br />
-<br />
-
-### 📕 Latest Portfolio Post
-
-<!-- BLOG-POST-LIST:START -->
-- [Amiibo Finder](https://github.com/MarcioAlvior/AmiiboApi)
-- [Oceancio's Store](https://github.com/MarcioAlvior/E-commerce)
-- [Márcio's Portfolio](https://github.com/MarcioAlvior/portifolio)
-- [Rock, paper, scissors](https://github.com/MarcioAlvior/-RockPaperScissors)
-<!-- BLOG-POST-LIST:END -->
-
-
+- [Frontend App - Vanilla Js - Rock, paper, scissors](https://github.com/MarcioAlvior/-RockPaperScissors)
+- [Frontend App - Vanilla Js - Márcio's Portfolio](https://github.com/MarcioAlvior/portifolio)
+- [Frontend App - Vanilla Js - Amiibo Finder](https://github.com/MarcioAlvior/AmiiboApi)
+- [Frontend App - Vanilla Js - Oceancio's Store](https://github.com/MarcioAlvior/E-commerce)
 ---
 
 
