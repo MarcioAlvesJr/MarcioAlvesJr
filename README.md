@@ -42,7 +42,6 @@ Shopify • GitHub • Vercel • Netlify
 
 ### 🌍 About Me
 - 🇧🇷 Based in Brazil — Fluent in Portuguese & English  
-- 🚀 Currently open to **Front-End** or **Full-Stack** roles (Remote or Hybrid)  
 - 🎨 Passionate about building thoughtful digital experiences  
 
 ---
